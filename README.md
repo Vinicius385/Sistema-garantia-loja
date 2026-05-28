@@ -21,15 +21,10 @@ Ideal para lojas que desejam organizar atendimentos, registrar clientes e emitir
 
 ## 🖼️ Preview do Projeto
 
-Adicione aqui as imagens do sistema:
-
-```md
-<img width="897" height="649" alt="image" src="https://github.com/user-attachments/assets/13a6c256-edf3-4d70-8aea-359008890097" />
-<img width="902" height="651" alt="image" src="https://github.com/user-attachments/assets/18b751ea-dd2c-4ace-b984-f38cfce9831a" />
-<img width="900" height="651" alt="image" src="https://github.com/user-attachments/assets/8c5c70fa-11e3-450b-8b17-39c84014d456" />
-<img width="449" height="628" alt="image" src="https://github.com/user-attachments/assets/04c8f32d-3f7f-4f2e-a986-7a8188d71339" />
-
-```
+img width="897" height="649" alt="image" src="https://github.com/user-attachments/assets/13a6c256-edf3-4d70-8aea-359008890097"
+img width="902" height="651" alt="image" src="https://github.com/user-attachments/assets/18b751ea-dd2c-4ace-b984-f38cfce9831a"
+img width="900" height="651" alt="image" src="https://github.com/user-attachments/assets/8c5c70fa-11e3-450b-8b17-39c84014d456
+img width="449" height="628" alt="image" src="https://github.com/user-attachments/assets/04c8f32d-3f7f-4f2e-a986-7a8188d71339"
 
 ---
 
